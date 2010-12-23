@@ -1,0 +1,13 @@
+﻿<flash_project name="BrickBraker" version="1">
+    <project_file path=".:Boule.as" filetype="as" />
+    <project_file path=".:Bouton_Rejouer.as" filetype="as" />
+    <project_file path=".:Brick.as" filetype="as" />
+    <project_file path=".:BrickBraker.fla" filetype="fla" profile="" def_file="true" />
+    <project_file path=".:BrickRaccChar.as" filetype="as" />
+    <project_file path=".:CadreBas.as" filetype="as" />
+    <project_file path=".:CadreDroit.as" filetype="as" />
+    <project_file path=".:CadreGauche.as" filetype="as" />
+    <project_file path=".:CadreHaut.as" filetype="as" />
+    <project_file path=".:Chariot.as" filetype="as" />
+    <project_file path=".:Screen.as" filetype="as" />
+</flash_project>

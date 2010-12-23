@@ -1,0 +1,1 @@
+﻿package  {	import flash.display.SimpleButton;	public class Bouton_Rejouer extends SimpleButton {				// Constants:		// Public Properties:		// Private Properties:			// Initialization:		public function Bouton_Rejouer(){		}					// Public Methods:		// Protected Methods:	}	}

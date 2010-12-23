@@ -1,0 +1,1 @@
+﻿package  {	import flash.display.MovieClip;	import flash.events.Event;	public class CadreBas extends MovieClip {				// Constants:		// Public Properties:		// Private Properties:			// Initialization:		public function CadreBas() { }			// Public Methods:		// Protected Methods:	}	}
